@@ -1,5 +1,5 @@
 // Create an array of quotes
-var quotes = ["Frankly, my dear, I don't give a damn", "Go ahead, make my day", "May the Force be with you", "You talkin' to me?", "I'm (the) king of the world!", "Bond. James Bond", "Show me the money!", "You can't handle the truth!", "I'll be back", "We'll always have Paris", "I see dead people", "It's alive! It's alive!", "Houston, we have a problem", "There's no crying in baseball!", "Say 'hello' to my little friend!"];
+var quotes = ["Frankly, my dear, I don't give a damn", "Go ahead, make my day", "May the Force be with you", "You talkin' to me?", "I'm (the) king of the world!", "Bond. James Bond", "Show me the money!", "You can't handle the truth!", "I'll be back", "I see dead people", "It's alive! It's alive!", "Houston, we have a problem", "There's no crying in baseball!", "Say 'hello' to my little friend!"];
 
 // Creates buttons
 function makeButtons(){ 
